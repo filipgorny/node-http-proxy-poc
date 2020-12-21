@@ -1,0 +1,3 @@
+target-server/logs/*.log
+.idea
+
